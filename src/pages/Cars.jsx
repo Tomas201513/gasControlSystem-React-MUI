@@ -28,3 +28,7 @@ const rows = [
 }
 
 export default Cars
+<<<<<<< HEAD
+=======
+
+>>>>>>> ca90b20d2525d9f2afbe981a07d8d95362579013
